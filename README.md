@@ -1,9 +1,5 @@
 # GWO_SVM
-<!DOCTYPE html>
-<html>
-<head>
-<title>Code Description - SVM Classification and Grey Wolf Optimization</title>
-</head>
+
 <body>
 <h1>Code Description - SVM Classification and Grey Wolf Optimization</h1>
 <h2>Overview</h2>
