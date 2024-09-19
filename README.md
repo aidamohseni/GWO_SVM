@@ -1,7 +1,7 @@
 # GWO_SVM
 
 <body>
-<h1>Code Description - SVM Classification and Grey Wolf Optimization</h1>
+<h1>SVM Classification and Grey Wolf Optimization</h1>
 <h2>Overview</h2>
 <p>This Python code demonstrates the use of Support Vector Machine (SVM) classification and the Grey Wolf Optimization (GWO) algorithm on a dataset. It involves data preprocessing, SVM classification, and iterative optimization using GWO.</p>
 <h2>Code Tasks</h2>
